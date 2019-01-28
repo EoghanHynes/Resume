@@ -1,0 +1,21 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Honors \& Awards}
+
+\begin{cvhonors}
+
+%---------------------------------------------------------
+  \cvhonor
+    {President Seed Fund Scholarship} % Award
+    {Interviewed for and successfully awarded A.I.T President Seed award } % Event
+    {A.I.T, Athlone} % Location
+    {2018} % Date(s)
+    
+\cvhonor
+   {Distinction in French} % Award
+   {Erasmus student, Le Havre France 1999 - 2000} % Event
+   {C.I.T, Carlow} % Location
+   {2001} % Date(s)
+%---------------------------------------------------------
+\end{cvhonors}
