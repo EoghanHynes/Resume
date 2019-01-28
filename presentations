@@ -1,0 +1,40 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Presentations}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+  \cventry
+    {Industry demonstration} % Role
+    {ICBE Industry working group.} % Title
+    {Domoland Castle, Co. Clare} % Location
+    {Nov. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {Exhibition of AR application developed in A.I.T.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+  \cventry
+    {Exhibition} % Role
+    {European Composites, Plastics and Polymer Processing Platform conference} % Event
+    {Hodson Bay, Athlone} % Location
+    {Jul. 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {I exhibited execution of my AR application for assisted operation of the Fanuc injection moulding machine.}
+      \end{cvitems}
+    }
+    
+    %---------------------------------------------------------
+
+%---------------------------------------------------------
+\end{cventries}
