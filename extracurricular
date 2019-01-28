@@ -1,0 +1,71 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Extracurricular Activity}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {Data Science and Engineering Club} % Affiliation/role
+    {Trinity College} % Organization/group
+    {Hamilton Building, Trinity College} % Location
+    {2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {I conducted a machine learning workshop in R to a full house of academics and industry specialists.}
+        \item {Topics included KNN and Decision Tree classification Linear Regression predictions.}
+        \item{I partake in deep learning and data engineering workshops.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+  \cventry
+    {N.C.O, Rank: Corporal} % Affiliation/role
+    {Irish Reserve Defence Forces} % Organization/group
+    {Athlone, Co. Westmeath} % Location
+    {Jun. 2005 - 2008} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {Team leadership and communications skills.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Student Pilot} % Affiliation/role
+    {Newtonards Aerodrome} % Organization/group
+    {Newtonards, Co. Down} % Location
+    {2018 - PRESENT} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item{Completed 4 hours dual training on flex wing microlight.}
+        \item{Passed the Air Law exam.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+  \cventry
+    {Qualified Life Guard} % Affiliation/role
+    {Irish Water Safety} % Organization/group
+    {Tullmore, Co. Offaly} % Location
+    {1998} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of experience/contributions/knowledge
+        \item {Completed Irish Water Safety Lifeguard training.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+
+
+
+\end{cventries}
