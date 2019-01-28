@@ -1,0 +1,38 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Publications}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+  \cventry
+    {QoE evaluation of AR using Rubik's cube solving application.} % Role
+    {Poster} % Title
+    {A.I.T} % Location
+    {2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {This poster has been used for more than 20 combined industry demonstrations and academic presentations.}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+  \cventry
+    {Conference Paper} % Role
+    {A QoE evaluation of Augmented Reality for task assistance.} % Title
+    {QoMEX, Berlin} % Location
+    {Submitted 22 Jan. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s)
+        \item {11th international conference on Quality of Multimedia Experience. \\ \\}
+      \end{cvitems}
+    }
+
+%---------------------------------------------------------
+
+\end{cventries}
