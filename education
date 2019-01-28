@@ -1,0 +1,51 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Education}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+
+%---------------------------------------------------------
+\cventry
+    {MSc by research} % Degree
+    {Athlone Institute of Technology} % Institution
+    {Athlone, Co. Westmeath} % Location
+    {Oct. 2018 - Jun. 2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s) bullet points
+        \item{Development of QoE evaluation system for AR using Unity IDE. Integrated Empatica E4 wrist device for real-time physiological signal acquisition. Integrated OpenFace for real time automatic head pose data acquisition, including facial Action Units for emotional state evaluation.}
+        \item{Subsequent frequency domain signals processing of physiological data using MATLAB.} \item{Subsequent paper write up and submission to international conferences, including MMM,MMSys and QoMEX.}
+        \item{Project supervisor for 2 x MSc Software Engineering students.}
+        \item{Project supervisor for 3 x BSc Cloud Computing students.}
+        \item{Second reader, project supervision of 3 x MSc Cloud Computing students.}
+        \item{Irish Research Council (IRC) funding application submitted for 2019 funding round.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+  \cventry
+    {MSc in Software Engineering (Taught)} % Degree
+    {Athlone Institute of Technology} % Institution
+    {Athlone, Co. Westmeath} % Location
+    {Jan. 2017 - Jun. 2018 (Part-Time)} % Date(s)
+    {
+      \begin{cvitems} % Description(s) bullet points
+        \item {First class honours. GPA 80.75\%}
+        \item{Database Systems: MySQL, MongoDB.}
+        \item{Computer Networks and Telecommunications: TCP/IP, LTE.}
+        \item{Service Oriented Architecture: SOAP, REST.}
+        \item{Rich Internet Applications: Single page web application, backbone, bootstrap.}
+        \item{Data Science: Machine Learning, R.}
+        \item{Software Design: C\# OOP patterns, factory, decorator, visitor, iterator. Haskell functional programming.}
+        \item{Data Visualization: D3.}
+        \item{Agile Build and Delivery: Multinational team project development using agile SCRUM methodologies, continuous integration deployment pipeline using Github repository and Travis CI for a Java EE web applicant. This was a web based GP clinical practice patient appointment and prescription management application.}
+        \item{IoT Project: RESTful web service using play framework, Android mobile app and FitBit API, MySQL and MongoDB databases. Physiological thresholds including heart rate and sleep patterns were used to trigger SMS message to I.C.E contact containing GPS location data.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+\end{cventries}
