@@ -1,0 +1,133 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+% Awesome CV LaTeX Template for Cover Letter
+%
+% This template adapted from:
+% https://github.com/posquit0/Awesome-CV
+%
+% Original Creators:
+% Claud D. Park <posquit0.bj@gmail.com>
+% Lars Richter <mail@ayeks.de>
+%
+% Template license:
+% CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+%
+
+
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[11pt, a4paper]{awesome-cv}
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=1.8cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% Awesome Colors: awesome-emerald, awesome-skyblue, awesome-red, awesome-pink, awesome-orange
+%                 awesome-nephritis, awesome-concrete, awesome-darknight
+\colorlet{awesome}{awesome-red}
+% Uncomment if you would like to specify your own color
+% \definecolor{awesome}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with awesome color
+\setbool{acvSectionColorHighlight}{true}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+\photo[circle,noedge,left]{profile}
+\name{Eoghan P.}{Hynes}
+\position{BSc Software Engineering}
+\address{Killurin, Tullamore, Co. Offaly, R35T1D6}
+
+\mobile{0851424508}
+\email{e.hynes@research.ait.ie}
+\github{A00107408}
+\stackoverflow{7022883}{eoghan-hynes}
+\linkedin{eoghan-hynes-401ab1153}
+% \gitlab{gitlab-id}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \extrainfo{extra informations}
+
+%\quote{``The most effective way to do it is to do it."}
+
+
+%-------------------------------------------------------------------------------
+%	LETTER INFORMATION
+%	All of the below lines must be filled out
+%-------------------------------------------------------------------------------
+% The company being applied to
+%\recipient
+%  {Company Recruitment Team}
+%  {Google Inc.\\Gordon House \\Barrow St \\Dublin 4 \\Ireland}
+% The date on the letter, default is the date of compilation
+\letterdate{\today}
+% The title of the letter
+\lettertitle{Job Application for PhD Internship}
+% How the letter is opened
+%\letteropening{Dear Mr./Ms./Dr. LastName,}
+\letteropening{Dear Team,}
+% How the letter is closed
+\letterclosing{Sincerely,}
+% Any enclosures with the letter
+%\letterenclosure[Attached]{Curriculum Vitae}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+\makecvheader[R]
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+\makecvfooter
+  {\today}
+  {Eoghan P. Hynes~~~·~~~Cover Letter}
+  {}
+
+% Print the title with above letter informations
+\makelettertitle
+
+%-------------------------------------------------------------------------------
+%	LETTER CONTENT
+%-------------------------------------------------------------------------------
+\begin{cvletter}
+
+\lettersection{About Me}
+I love writing software. I have dedicated myself to obtaining a PhD in software. I am punctual and hard working and I am committed to doing the work required to complete the proposed research. This is demonstrated by my first class honours in my taught MSc in Software Engineering with a GPA of 80.75\%. I am fascinated by how technology can be employed to improve peoples lives. In this context, I want to pursue a PhD using Augmented Reality to aid and augment human functioning.
+
+\lettersection{Why Google?}
+I have always wanted to work at Google. An internship at Google will 
+
+\lettersection{Why Me?}
+I love writing software. I have dedicated myself to obtaining a PhD in software. I am punctual and hard working and I am committed to doing the work required to complete the proposed research. This is demonstrated by my first class honours in my taught MSc in Software Engineering with a GPA of 80.75\%. I am fascinated by how technology can be employed to improve peoples lives. In this context, I want to pursue a PhD using Augmented Reality to aid and augment human functioning.
+
+\end{cvletter}
+
+
+%-------------------------------------------------------------------------------
+% Print the signature and enclosures with above letter informations
+\makeletterclosing
+
+\end{document}
