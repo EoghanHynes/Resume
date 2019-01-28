@@ -1,0 +1,63 @@
+%-------------------------------------------------------------------------------
+%	SECTION TITLE
+%-------------------------------------------------------------------------------
+\cvsection{Work Experience}
+
+
+%-------------------------------------------------------------------------------
+%	CONTENT
+%-------------------------------------------------------------------------------
+\begin{cventries}
+%---------------------------------------------------------
+  \cventry
+    {Lab Supervisor} % Job title
+    {Athlone Institue of Technology} % Organization
+    {Athlone, Co. Westmeath} % Location
+    {Sept-Dec 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item{'Agile build and Delivery' practical lab supervisor of 15 MSc Software students.}
+        \item{Semester divided into 2 sprints.}
+        \item{3 teams of 5 used Java servlets to create web applications for movie rentals, holiday bookings and online shopping services.}
+        \item{Teams used web repositories with continuous integration pipelines.}
+        \item{Team member nationalities included Chinese, Indian, Polish and Irish} \item{All team members successfully passed this module under my supervision. }
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+  \cventry
+    {Project Supervisor} % Job title
+    {Athlone Institue of Technology} % Organization
+    {Athlone, Co. Westmeath} % Location
+    {Sept-June 2018-2019} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item{2*MSc projects: }
+        \item{Book Recommendation web service using Play framework and Android mobile app.}
+        \item{Activity prediction application using R shiny server and mobile phone accelerometer data.}
+        \item{3*BSc projects:}
+        \item{Community alert web service using mobile app, server and web SMS api.}
+        \item{IOT smart fridge using digital weighing scales and 'Tesco' web api.}
+        \item{Delivery web service using server, database, mobile phone, and SMS api.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+
+%---------------------------------------------------------
+  \cventry
+    {Partner} % Job title
+    {Tullamore Steel} % Organization
+    {Tullamore, Co. Offaly} % Location
+    {Jul. 2002 - 2018} % Date(s)
+    {
+      \begin{cvitems} % Description(s) of tasks/responsibilities
+        \item{Deployment test end users of Europe wide role out of IOS front end mobile application for 'Air Products Inc.' SAP system.}
+        \item{Air Products Inc. SAP web tool power user, customer services, customer accounts, customer conflict resolution.}
+        \item{Key and cash holder, accounting, invoicing, statements.}
+        \item{Product delivery, stock management, pricing.}
+        \item{'Air Products' agent for Co. Offaly.}
+      \end{cvitems}
+    }
+%---------------------------------------------------------
+\end{cventries}
